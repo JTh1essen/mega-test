@@ -1,4 +1,4 @@
-Mega-Test
+Mega Test
 
 Adding a new line
 

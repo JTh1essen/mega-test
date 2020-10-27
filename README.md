@@ -1,4 +1,4 @@
-Mega Test
+<h1>Mega Test</h1>
 
 Adding a new line
 
